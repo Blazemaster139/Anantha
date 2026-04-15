@@ -246,6 +246,6 @@ footer {
         height: fit-content;
     }
     .cta_button {
-        margin-bottom: 20px;
+        padding: 20px;
     }
 }
