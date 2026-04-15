@@ -242,4 +242,7 @@ footer {
         width: 300px;
         height: auto;
     }
+    .hero {
+        height: fit-content;
+    }
 }
