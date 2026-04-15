@@ -243,6 +243,10 @@ footer {
         height: auto;
     }
     .hero {
-        height: 1vh;
+        height: fit-content;
+    }
+    .cta_button {
+        padding: 20px;
+        margin: 20px;
     }
 }
