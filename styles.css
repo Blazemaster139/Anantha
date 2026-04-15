@@ -245,4 +245,7 @@ footer {
     .hero {
         height: fit-content;
     }
+    .cta_button {
+        margin-bottom: 20px;
+    }
 }
